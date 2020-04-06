@@ -1,0 +1,21 @@
+{
+    "editor.rulers": [
+        79,
+        120
+    ],
+    "editor.renderWhitespace": "all",
+    "editor.cursorStyle": "line-thin",
+    "editor.cursorBlinking": "expand",
+    "explorer.confirmDelete": false,
+    "files.autoSave": "afterDelay",
+    "workbench.sideBar.location": "left",
+    "workbench.colorTheme": "Dracula Soft",
+    "python.venvPath": "/scratch/venv",
+    "python.linting.flake8Enabled": true,
+    "python.testing.pytestEnabled": true,
+    "explorer.confirmDragAndDrop": false,
+    "files.trimTrailingWhitespace": true,
+    "window.zoomLevel": 0,
+    "C_Cpp.dimInactiveRegions": false,
+    "C_Cpp.loggingLevel": "Information",
+}

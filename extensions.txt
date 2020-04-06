@@ -1,0 +1,9 @@
+austin.code-gnu-global
+dracula-theme.theme-dracula
+eamodio.gitlens
+lextudio.restructuredtext
+ms-python.python
+ms-vscode.cmake-tools
+ms-vscode.cpptools
+nsd.vscode-epics
+redhat.vscode-yaml
