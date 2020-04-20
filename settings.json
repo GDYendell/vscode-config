@@ -18,4 +18,7 @@
     "window.zoomLevel": 0,
     "C_Cpp.dimInactiveRegions": false,
     "C_Cpp.loggingLevel": "Information",
+    "window.menuBarVisibility": "toggle",
+    "cmake.configureOnOpen": false,
+    "terminal.integrated.scrollback": 10000,
 }
